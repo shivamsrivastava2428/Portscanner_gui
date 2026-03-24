@@ -29,7 +29,7 @@ Designed to help security analysts and students quickly scan hosts and visualize
 ## ⚙️ Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/lodha_portscanner_gui.git
+git clone https://github.com/anujrajput99/lodha_portscanner_gui.git
 cd lodha_portscanner_gui
 
 # Install dependencies
