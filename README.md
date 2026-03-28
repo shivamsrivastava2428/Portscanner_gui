@@ -1,4 +1,4 @@
-# Anuj Port Scanner GUI 🔍
+# Port Scanner GUI 🔍
 
 A simple yet powerful **GUI-based port scanner** built with Python and Nmap.  
 Designed to help security analysts and students quickly scan hosts and visualize results in an intuitive interface.
